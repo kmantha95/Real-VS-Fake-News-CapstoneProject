@@ -1,2 +1,2 @@
-# Real-VS-Fake-News-CapstoneProject
-This capstone project builds an ML model to predict whether a news article is "real" (verified, citable information) or "fake".
+# Real-VS-Fake-News-Project
+This project builds an ML model to predict whether a news article is "real" (verified, citable information) or "fake".
